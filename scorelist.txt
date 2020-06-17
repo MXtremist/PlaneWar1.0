@@ -1,0 +1,7 @@
+score	name
+100	Nick
+15	DSA
+30	afff
+555	ggg
+45	afasa
+0	asfa
